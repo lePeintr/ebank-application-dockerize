@@ -1,0 +1,6 @@
+Reste à faire
+Creer les container avec Docker et kubernetes pour orchestrations des container(creer les images doker pour chaque micro service,
+utiliser docker compose pour ytous demarrer )
+Terminer les fonctionnalités Backend de service Accounts et gerer les paginations
+Gerer la securité de l'application avec spring security et JWT
+Faire Le coté Front de l'application en affichant les bonnes exceptions
